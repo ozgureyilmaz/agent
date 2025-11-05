@@ -1,4 +1,4 @@
-# AI File Assistant
+# AI Coding Assistant
 
 A simple AI agent. Supports Google Gemini and Anthropic Claude.
 
